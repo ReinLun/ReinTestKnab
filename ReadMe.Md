@@ -59,5 +59,5 @@ public static string Token =  "Vul hier het Token in";
 10. Check in de project properties if the Target Framework: .NET Core 3.1.
 Else use the dropdown to change to * Target Framework: .NET Core 3.0, that wil work also. 
 
-10. Open the Test explorer and run the test
+11. Open the Test explorer and run the test
 
